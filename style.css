@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 30px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+img {
+  width: 150px;
+  border-radius: 10px;
+}
+
+ul {
+  list-style: square;
+}
+
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
